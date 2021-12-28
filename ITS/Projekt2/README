@@ -1,0 +1,18 @@
+data_manipulation.feature
+
+ Added:
+ Scenario: User can log in
+
+ Changed:
+ Scenario: Add Requirement to an Evaluation Scenario
+ Given: And specific Use Case page is open
+ joined with the first given in that scenario
+ 
+  Scenario: Delete Use Case
+ deleted Given 
+
+ 
+Not Implemented
+Scenario: Add Evaluation Scenario to Use Case
+Scenario: Add Requirement to an Evaluation Scenario
+Scenario: Add Test Case to a Requirement

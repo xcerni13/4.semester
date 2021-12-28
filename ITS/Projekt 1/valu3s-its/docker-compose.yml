@@ -1,0 +1,7 @@
+valu3s:
+  build: .
+  hostname: valu3s
+  ports:
+    - '8080:8080'
+  volumes:
+    - ./filestorage:/opt/web_server/var/filestorage:Z
